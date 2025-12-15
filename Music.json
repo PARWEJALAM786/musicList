@@ -1,53 +1,52 @@
-
 [
-  {
-    "title": "Chaleya",
-    "artist": "Arijit Singh",
-    "url": "https://youtu.be/4tb5xQvbdt8"
-  },
   {
     "title": "Kesariya",
     "artist": "Arijit Singh",
-    "url": "https://youtu.be/wE6FR5cXl9M"
+    "link": "https://open.spotify.com/track/1YiJj4CAcpJtXuyzrlI8S9"
   },
   {
     "title": "Tum Hi Ho",
     "artist": "Arijit Singh",
-    "url": "https://youtu.be/Umqb9KENgmk"
+    "link": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
   },
   {
-    "title": "Dil Diyan Gallan",
-    "artist": "Atif Aslam",
-    "url": "https://youtu.be/eg0sC20ZAxM"
+    "title": "Chaleya",
+    "artist": "Arijit Singh",
+    "link": "https://open.spotify.com/track/2UTPDBtO3BeI0YJQ8FNeAx"
   },
   {
-    "title": "Tere Bina",
-    "artist": "A.R. Rahman",
-    "url": "https://youtu.be/1N484b5m7Os"
+    "title": "Tujhe Kitna Chahne Lage",
+    "artist": "Arijit Singh",
+    "link": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
   },
   {
-    "title": "Malhari",
-    "artist": "Vishal Dadlani",
-    "url": "https://youtu.be/EpXlzzDvH8o"
+    "title": "Ae Dil Hai Mushkil",
+    "artist": "Arijit Singh",
+    "link": "https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE"
   },
   {
-    "title": "Deewani Mastani",
-    "artist": "Shreya Ghoshal",
-    "url": "https://youtu.be/4Zm2n9_6jXQ"
+    "title": "Hawayein",
+    "artist": "Arijit Singh",
+    "link": "https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c"
+  },
+  {
+    "title": "Kalank (Title Track)",
+    "artist": "Arijit Singh",
+    "link": "https://open.spotify.com/track/2k5pW8VpUQUgL3Xdgx5joU"
   },
   {
     "title": "Ghungroo",
     "artist": "Arijit Singh",
-    "url": "https://youtu.be/k4yXQ9QjTGI"
+    "link": "https://open.spotify.com/track/5oMq5g8uVPQWYRy8OsnbCM"
   },
   {
-    "title": "Tum Se Hi",
-    "artist": "Mohit Chauhan",
-    "url": "https://youtu.be/HN_Iy6t4XYk"
+    "title": "Dil Diyan Gallan",
+    "artist": "Atif Aslam",
+    "link": "https://open.spotify.com/track/5hR2b9CX0G7gaA8vqyNabx"
   },
   {
-    "title": "Bole Chudiyan",
-    "artist": "Sonu Nigam & Sapna Awasthi",
-    "url": "https://youtu.be/AkHT0q1J0ok"
+    "title": "Aankh Marey",
+    "artist": "Neha Kakkar, Mika Singh",
+    "link": "https://open.spotify.com/track/4FzcdvxEQ1ZkmE0z7sC4BH"
   }
 ]
