@@ -1,18 +1,53 @@
+
 [
   {
-    "title": "Sample Song 1",
-    "artist": "SoundHelix",
-    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    "title": "Chaleya",
+    "artist": "Arijit Singh",
+    "url": "https://youtu.be/4tb5xQvbdt8"
   },
   {
-    "title": "Sample Song 2",
-    "artist": "SoundHelix",
-    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    "title": "Kesariya",
+    "artist": "Arijit Singh",
+    "url": "https://youtu.be/wE6FR5cXl9M"
   },
   {
-    "title": "Sample Song 3",
-    "artist": "SoundHelix",
-    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+    "title": "Tum Hi Ho",
+    "artist": "Arijit Singh",
+    "url": "https://youtu.be/Umqb9KENgmk"
+  },
+  {
+    "title": "Dil Diyan Gallan",
+    "artist": "Atif Aslam",
+    "url": "https://youtu.be/eg0sC20ZAxM"
+  },
+  {
+    "title": "Tere Bina",
+    "artist": "A.R. Rahman",
+    "url": "https://youtu.be/1N484b5m7Os"
+  },
+  {
+    "title": "Malhari",
+    "artist": "Vishal Dadlani",
+    "url": "https://youtu.be/EpXlzzDvH8o"
+  },
+  {
+    "title": "Deewani Mastani",
+    "artist": "Shreya Ghoshal",
+    "url": "https://youtu.be/4Zm2n9_6jXQ"
+  },
+  {
+    "title": "Ghungroo",
+    "artist": "Arijit Singh",
+    "url": "https://youtu.be/k4yXQ9QjTGI"
+  },
+  {
+    "title": "Tum Se Hi",
+    "artist": "Mohit Chauhan",
+    "url": "https://youtu.be/HN_Iy6t4XYk"
+  },
+  {
+    "title": "Bole Chudiyan",
+    "artist": "Sonu Nigam & Sapna Awasthi",
+    "url": "https://youtu.be/AkHT0q1J0ok"
   }
 ]
-
